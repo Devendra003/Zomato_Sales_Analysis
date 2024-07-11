@@ -1,5 +1,4 @@
-create database projects
-use projects
+
 
 CREATE TABLE goldusers_signup(userid integer,gold_signup_date date); 
 INSERT INTO goldusers_signup(userid,gold_signup_date) 
