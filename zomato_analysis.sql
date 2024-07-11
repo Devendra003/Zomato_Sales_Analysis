@@ -49,6 +49,11 @@ select * from goldusers_signup;
 select * from users;
 
 
+
+/*  Exploratory Data Analysis  */
+
+
+
 /*what is the total ammount each customer spent on zomato
 */
 
